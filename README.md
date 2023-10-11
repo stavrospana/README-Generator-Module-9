@@ -25,7 +25,7 @@ Once all the questions have been answered, the application will begin generating
 
 ## Credits
 
-license badge templates & links (./utils/generateMarkdown.js, lines 21-22, 26-27, 31-32, 36-37, 41-42)
+license badge templates & links (./utils/generateMarkdown.js
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 ## License
