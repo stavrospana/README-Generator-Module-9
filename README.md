@@ -3,9 +3,7 @@
 
 ## Description
 
-A high-quality README is one of the hallmarks of a high-quality GitHub repository, but putting together such a README takes time; time that could be spent on application development.
-
-Thus, this project aims to streamline the process by dynamically generating a professional, high-quality README based on a user's input.
+In this challenge we were required to generate a professional README file. This tool is very handy as it streamlines the process in creating a README for any project!
 
 ## Installation
 
