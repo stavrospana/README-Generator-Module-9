@@ -23,6 +23,8 @@ Once all the questions have been answered, the application will begin generating
 
 https://drive.google.com/file/d/10MG_uRbSYgEKdGBcIJq6TWYEizVfNLGH/view
 
+![image](https://github.com/stavrospana/README-Generator-Module-9/assets/138176781/38e55989-3a98-4f2c-8af8-e72cf9ccfc48)
+
 
 ## Credits
 
